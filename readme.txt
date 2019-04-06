@@ -1,2 +1,2 @@
 this is my readme file. :)
-este es mi archivo readme.
+no esta bueno eso
